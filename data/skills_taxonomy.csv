@@ -1,0 +1,55 @@
+skill_group,skill_name,skill_description
+Programming,Python,"Build scripts, analysis notebooks, APIs and automation tools."
+Programming,JavaScript,Create interactive web interfaces and frontend applications.
+Programming,C#,Develop Unity and enterprise applications.
+Programming,algorithms,Solve computational problems efficiently.
+Data,SQL,Query relational databases and analytics tables.
+Data,Excel,Analyse tabular data and create business reports.
+Data,data cleaning,Prepare messy datasets for reliable analysis.
+Data,statistics,"Measure patterns, uncertainty and relationships."
+Data,Tableau,Create interactive BI dashboards.
+Data,Power BI,Build dashboard reports and semantic models.
+Data,data modelling,Design analytics-ready data structures.
+Data,ETL,"Extract, transform and load data across systems."
+AI,machine learning,Train predictive models for classification or regression.
+AI,deep learning,Use neural networks for complex data such as images and text.
+AI,prompt engineering,Design reliable instructions for LLM systems.
+AI,LLM APIs,Integrate large language models into applications.
+AI,NLP,Analyse and generate text data.
+AI,OpenCV,Process images and videos for computer vision applications.
+AI,model evaluation,Assess models using appropriate metrics and validation.
+AI,MLOps,"Manage ML deployment, monitoring and retraining."
+Software,Git,Track code changes and collaborate with version control.
+Software,REST APIs,Connect applications and services through web APIs.
+Software,testing,Check software quality and reliability.
+Software,debugging,Identify and fix code problems.
+Software,HTML,Structure web pages.
+Software,CSS,Style web pages.
+Software,Selenium,Automate browser testing.
+Cybersecurity,networking,"Understand protocols, traffic and secure architecture."
+Cybersecurity,Linux,Operate technical systems and servers.
+Cybersecurity,SIEM,Monitor and investigate security alerts.
+Cybersecurity,incident response,Respond to cyber incidents methodically.
+Cybersecurity,ethical hacking,Assess vulnerabilities legally and safely.
+Cybersecurity,OSINT,Use open-source information for investigation.
+Cybersecurity,MITRE ATT&CK,"Map attacker tactics, techniques and procedures."
+Cybersecurity,digital forensics,Analyse digital evidence.
+Cloud and DevOps,cloud computing,Use platforms such as AWS or Azure.
+Cloud and DevOps,Docker,Containerise applications.
+Cloud and DevOps,CI/CD,Automate testing and deployment.
+Cloud and DevOps,Terraform,Automate infrastructure provisioning.
+Cloud and DevOps,monitoring,Track system health and reliability.
+Business,communication,Explain technical information to stakeholders.
+Business,stakeholder management,Work with people across roles and teams.
+Business,requirements analysis,Translate needs into solution requirements.
+Business,product thinking,"Connect user needs, business value and feasibility."
+Business,data storytelling,Present insights clearly using narrative and visuals.
+Governance,data protection,Apply privacy and compliance principles.
+Governance,risk assessment,"Identify likelihood, impact and controls."
+Governance,AI ethics,"Evaluate fairness, privacy and social impact risks."
+Design,user research,Study user needs and behaviour.
+Design,usability testing,Evaluate whether users can use a system effectively.
+Design,prototyping,Create early versions of digital products.
+Robotics,robotics fundamentals,Understand robot components and motion.
+Robotics,control systems,Analyse dynamic systems and controller behaviour.
+Robotics,simulation,Model systems before real-world deployment.

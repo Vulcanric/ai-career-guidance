@@ -1,0 +1,13 @@
+profile_id,student_name,programme,grade_percentage,interests,skills,working_style,career_goal
+SP001,Aisha Khan,MSc Big Data & Data Science,72,data analysis; dashboards; business intelligence,Python; SQL; Excel; Tableau; communication,analytical; business-facing,Become a data analyst in a business team
+SP002,Rahul Sharma,MSc Cyber Security Technology,64,network security; ethical hacking; investigation,Linux; networking; Python; documentation,investigative; detail-oriented,Work in a SOC or incident response team
+SP003,Meera Patel,MSc Artificial Intelligence Technology,68,LLMs; AI agents; automation; NLP,Python; prompt engineering; APIs; Streamlit,creative; technical,Build AI assistants and workflow automation tools
+SP004,Daniel Green,MSc Computing Technology,58,web development; cloud; software engineering,HTML; CSS; JavaScript; Python; Git,creative; practical,Become a full stack developer
+SP005,Priya Singh,MSc Big Data & Data Science,61,healthcare data; statistics; dashboards,Excel; SQL; Python; Power BI,analytical; socially impactful,Use data analytics in healthcare
+SP006,Omar Ali,MSc Computing Technology,66,cloud; deployment; automation; DevOps,Linux; Git; Docker; scripting; AWS basics,automation-focused; technical,Become a DevOps or cloud engineer
+SP007,Sophia Brown,MSc Artificial Intelligence Technology,70,computer vision; deep learning; medical imaging,Python; TensorFlow; OpenCV; model evaluation,research-focused; technical,Build computer vision models
+SP008,Yuki Tanaka,MSc Cyber Security Technology,59,privacy; compliance; data protection; risk,communication; documentation; information security basics,policy-aware; structured,Work in privacy and security governance
+SP009,Carlos Rivera,MSc Computing Technology,54,testing; software quality; automation,Python; Postman; Git; debugging,detail-oriented; quality-focused,Become a QA automation engineer
+SP010,Emma Wilson,MSc Artificial Intelligence Technology,62,AI ethics; fairness; governance; policy,AI literacy; academic writing; risk assessment,critical; communication-heavy,Work in responsible AI governance
+SP011,Noah Clark,MSc Computing Technology,57,robotics; simulation; automation,Python; MATLAB basics; CAD basics,engineering-focused; experimental,Become a robotics simulation engineer
+SP012,Zara Ahmed,MSc Cross-Disciplinary,60,education technology; AI tutor; learning analytics,communication; Excel; basic Python; user research,human-centred; creative,Design AI-supported learning tools

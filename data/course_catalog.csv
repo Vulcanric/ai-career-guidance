@@ -1,0 +1,67 @@
+course_id,course_name,category,skills_gained,difficulty,estimated_weeks,portfolio_output,course_description
+CO001,Python Programming,Programming,Python; problem solving; debugging,Beginner,6,Code-based mini portfolio project,"Programming fundamentals with Python syntax, data structures and simple applications."
+CO002,Python for Data Analysis,Data Science,Python; Pandas; data cleaning; visualisation,Beginner,6,Cleaned dataset and exploratory notebook,"Use Pandas and visualisation to clean, analyse and present data."
+CO003,SQL Basics,Databases,SQL; databases; querying,Beginner,4,Query workbook,"Introductory SELECT, filtering, joining and aggregation queries."
+CO004,SQL for Analytics,Data Science,SQL; joins; aggregation; analytics,Intermediate,5,Analytics SQL case study,"Practical SQL for reporting, segmentation and business analytics."
+CO005,Database Design,Databases,database design; ERD; normalisation; SQL,Intermediate,5,Database schema and queries,Design relational databases and implement useful query patterns.
+CO006,Data Warehousing Fundamentals,Data Engineering,data warehousing; ETL; data modelling,Intermediate,6,Star schema design,"Covers dimensional models, fact tables, dimensions and analytics-ready data."
+CO007,Data Engineering with Python,Data Engineering,Python; ETL; pipelines; orchestration,Intermediate,7,ETL pipeline prototype,"Build reusable pipelines for extracting, cleaning and loading data."
+CO008,Cloud Data Pipelines,Data Engineering,cloud; ETL; data pipelines; orchestration,Advanced,8,Cloud pipeline design,Design scalable data pipelines using cloud services and orchestration concepts.
+CO009,Data Quality Testing,Data Engineering,data quality; testing; documentation,Intermediate,4,Data quality checklist,"Create data tests, validation rules and documentation for analytics tables."
+CO010,Analytics Engineering,Data Engineering,SQL; dbt; data modelling; testing,Intermediate,6,dbt-style model design,Create reliable analytics models between raw data and BI dashboards.
+CO011,Statistics for Decision Making,Data Science,statistics; probability; hypothesis testing,Beginner,5,Statistical analysis report,"Understand descriptive statistics, uncertainty and decision-focused analysis."
+CO012,Advanced Statistics,Data Science,statistics; regression; experimental design,Advanced,8,Research modelling report,Advanced statistical modelling for research and decision-making.
+CO013,Machine Learning Fundamentals,Artificial Intelligence,machine learning; scikit-learn; evaluation,Intermediate,8,Supervised ML notebook,"Train, evaluate and interpret core machine learning models."
+CO014,Model Evaluation and Explainability,Artificial Intelligence,model evaluation; metrics; explainability; SHAP,Intermediate,5,Evaluation report,"Evaluate model quality, fairness risks and explain results clearly."
+CO015,MLOps Foundations,Artificial Intelligence,MLOps; deployment; monitoring; ML lifecycle,Advanced,8,Model deployment plan,"Operationalise ML models using lifecycle, monitoring and retraining practices."
+CO016,FastAPI for ML Deployment,Artificial Intelligence,FastAPI; APIs; Python; deployment,Intermediate,5,ML API prototype,Package ML models as APIs for simple product integration.
+CO017,Deep Learning for Computer Vision,Artificial Intelligence,deep learning; CNNs; OpenCV; data augmentation,Advanced,8,Image classification prototype,Develop deep learning pipelines for image classification and detection tasks.
+CO018,Natural Language Processing,Artificial Intelligence,NLP; transformers; text analysis; evaluation,Advanced,8,Text analytics prototype,"Process and model text for classification, summarisation and chatbot tasks."
+CO019,LLM Prompt Engineering,Artificial Intelligence,prompt engineering; LLM APIs; evaluation; writing,Beginner,4,Prompt evaluation matrix,Design reliable prompts and evaluate LLM output quality.
+CO020,AI Agents with Python,Artificial Intelligence,AI agents; Python; LLM APIs; tools; memory,Intermediate,6,Agentic workflow prototype,"Build multi-step agent workflows using tools, prompts and structured data."
+CO021,AI Workflow Automation,Artificial Intelligence,workflow automation; AI tools; APIs; prompt engineering,Beginner,5,Automation workflow demo,"Automate research, reporting and decision-support processes using AI workflows."
+CO022,Responsible AI Design,Artificial Intelligence,AI ethics; fairness; privacy; governance,Beginner,4,Responsible AI checklist,Identify risks and create safer AI design decisions.
+CO023,AI Product Management,Product,AI literacy; product thinking; roadmap planning,Intermediate,5,AI product proposal,"Plan AI products that balance value, feasibility and risk."
+CO024,Product Analytics,Product,analytics; KPIs; experiments; dashboards,Intermediate,5,KPI dashboard plan,"Measure product usage, design experiments and use evidence for product decisions."
+CO025,Business Analysis Fundamentals,Business,requirements analysis; communication; documentation,Beginner,5,Requirements document,Gather requirements and translate business problems into solution specifications.
+CO026,Agile Project Delivery,Business,Agile; Scrum; teamwork; delivery planning,Beginner,4,Sprint plan,"Understand agile roles, ceremonies and iterative delivery."
+CO027,Data Storytelling,Business,communication; visualisation; presentation,Beginner,4,Insight presentation,"Communicate evidence using charts, narrative and stakeholder-focused recommendations."
+CO028,Tableau Dashboard Design,Data Visualisation,Tableau; dashboards; data visualisation,Beginner,5,Interactive dashboard,Build effective Tableau dashboards for business insight.
+CO029,Power BI and DAX,Data Visualisation,Power BI; DAX; data modelling,Intermediate,6,Power BI report,"Create data models, measures and dashboard reports in Power BI."
+CO030,Frontend Development,Software Development,HTML; CSS; JavaScript; UI basics,Beginner,6,Responsive website,Build user interfaces with core web technologies.
+CO031,Backend API Development,Software Development,Python; REST APIs; databases; authentication,Intermediate,6,Backend API prototype,Create backend services and connect them with databases.
+CO032,Software Engineering Fundamentals,Software Development,Git; testing; debugging; software design,Beginner,6,Software project repository,Learn structured software development practices and collaboration.
+CO033,Software Testing Fundamentals,Software Development,testing; quality assurance; test cases,Beginner,4,Test plan,Design manual and automated testing strategies.
+CO034,Test Automation with Selenium,Software Development,Selenium; automation; testing; Python,Intermediate,5,Automated test suite,Automate browser testing and produce test reports.
+CO035,API Testing,Software Development,Postman; REST APIs; testing,Beginner,3,API test collection,"Test APIs using requests, assertions and documentation."
+CO036,CI/CD Pipelines,DevOps,CI/CD; GitHub Actions; testing; deployment,Intermediate,5,Automated deployment pipeline,Automate testing and deployment workflows.
+CO037,Docker and Containers,DevOps,Docker; containers; deployment,Intermediate,4,Containerised app,Package applications for consistent deployment.
+CO038,Infrastructure as Code,DevOps,Terraform; cloud; automation; infrastructure,Advanced,6,Infrastructure plan,Automate infrastructure provisioning and configuration.
+CO039,Cloud Computing Fundamentals,Cloud,AWS; Azure; networking; cloud services,Beginner,6,Cloud architecture diagram,Understand core cloud services and deployment patterns.
+CO040,Linux Administration,Cloud,Linux; shell; permissions; services,Beginner,5,Linux operations checklist,Use Linux for server management and technical operations.
+CO041,Network Security Fundamentals,Cybersecurity,networking; security; firewalls; protocols,Beginner,6,Network security report,"Understand secure networks, protocols and basic defence mechanisms."
+CO042,Ethical Hacking Basics,Cybersecurity,ethical hacking; reconnaissance; vulnerability assessment,Intermediate,6,Vulnerability assessment lab,Learn legal penetration testing basics in a controlled lab context.
+CO043,SOC Analyst Training,Cybersecurity,SIEM; incident response; alert triage,Intermediate,6,SOC investigation report,Investigate alerts and document incident response actions.
+CO044,Python for Cybersecurity,Cybersecurity,Python; security automation; log analysis,Intermediate,5,Security automation script,Use Python to automate security analysis and reporting.
+CO045,Threat Intelligence Foundations,Cybersecurity,threat intelligence; MITRE ATT&CK; OSINT,Intermediate,5,Threat briefing,"Collect, structure and communicate threat intelligence."
+CO046,OSINT Investigation,Cybersecurity,OSINT; investigation; reporting,Beginner,4,OSINT case report,Use open-source information responsibly for investigations.
+CO047,Malware Analysis Basics,Cybersecurity,malware basics; static analysis; reporting,Advanced,6,Malware behaviour report,Analyse malware indicators and document findings safely.
+CO048,Digital Forensics Fundamentals,Cybersecurity,digital forensics; evidence; Autopsy,Intermediate,6,Forensics case report,Handle digital evidence and analyse basic forensic artefacts.
+CO049,Windows Forensics,Cybersecurity,Windows artefacts; registry; event logs,Advanced,6,Windows artefact report,Investigate Windows system artefacts and timelines.
+CO050,Security Automation,Cybersecurity,SOAR; APIs; Python; SIEM,Advanced,6,Automated response playbook,Automate alert triage and response processes.
+CO051,Data Protection and Privacy,Governance,privacy; data protection; compliance,Beginner,5,Privacy impact assessment,Understand data protection principles and privacy risk assessment.
+CO052,Cyber Risk Management,Governance,risk assessment; controls; governance,Intermediate,5,Risk register,Assess cyber risks and recommend controls.
+CO053,Information Security Basics,Governance,information security; policies; controls,Beginner,4,Security policy summary,Understand core security principles and organisational controls.
+CO054,Professional Report Writing,Academic Skills,report writing; communication; structure,Beginner,3,Professional report,Write clear technical and professional reports.
+CO055,UX Research Methods,UX and Design,user research; interviews; usability testing,Beginner,5,Usability study report,Conduct user research and summarise findings for design decisions.
+CO056,Design Thinking,UX and Design,design thinking; ideation; prototyping,Beginner,4,Prototype concept,Use human-centred design to solve real problems.
+CO057,Learning Analytics,Education Technology,learning analytics; dashboards; education data,Intermediate,5,Learning analytics dashboard,Analyse learner data to support educational decisions.
+CO058,AI in Education,Education Technology,AI tutoring; learning technology; responsible AI,Beginner,4,AI tutor concept,Explore AI-supported learning tools and ethical use in education.
+CO059,Robotics Fundamentals,Robotics,robotics; kinematics; automation,Intermediate,6,Robot cell design,"Understand robot components, motion and automation design."
+CO060,Control Systems Basics,Robotics,control systems; stability; simulation,Intermediate,6,Control simulation report,Learn control system concepts for engineering and robotics.
+CO061,Simulation Modelling,Robotics,simulation; modelling; optimisation,Intermediate,5,Simulation model,Create simulation models for engineering or operations problems.
+CO062,Unity Development Basics,Game Development,Unity; C#; interactive systems,Beginner,6,Playable prototype,Build interactive prototypes using Unity.
+CO063,Game AI Fundamentals,Game Development,game AI; algorithms; simulation,Intermediate,6,Game AI behaviour demo,Create rule-based and search-based AI behaviours for games.
+CO064,Algorithms and Data Structures,Programming,algorithms; data structures; problem solving,Intermediate,8,Algorithm practice portfolio,Improve computational thinking and coding efficiency.
+CO065,Healthcare Analytics,Healthcare Analytics,health data; dashboards; privacy; statistics,Intermediate,6,Healthcare KPI report,Analyse healthcare data responsibly to support service improvement.
+CO066,Research Methods,Academic Skills,research design; evaluation; academic writing,Beginner,5,Research proposal,"Plan research questions, methods and evaluation strategies."
